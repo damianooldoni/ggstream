@@ -197,7 +197,7 @@ p1 / p2 / p3
 The `ggstream` package provides some flexible ways to make stream plots
 but with decent defaults. However, due to the complexity of the
 underlying smoothing/estimation it should be used carefully and mostly
-for fun too illustrate major trends.
+for fun to illustrate major trends.
 
 If you find a bug or have ideas for additional feature you are more than
 welcome to open an issue.
